@@ -1,5 +1,7 @@
 # API REST Biblioteca
 **API REST** para manejo de usuarios de biblioteca siguiendo un modelo de capas *controlador, servicio y repositorio* desarrollado con las siguientes tecnologías
+
+- Java 11
 - Spring Boot 
 - Hibernate 
 - JPA 
