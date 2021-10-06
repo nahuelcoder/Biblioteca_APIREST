@@ -7,5 +7,7 @@
 - JPA 
 - Lombok 
 - MySQL
+- Postman
+  - Para testeo de los 4 verbos HTTP básicos que usamos en las solicitudes para interactuar con recursos en un sistema REST (GET, POST, PUT, DELETE)
 
 La API permite almacenar usuarios con todos sus datos y ver que libros tiene actualmente (cada libro presenta múltiples datos al igual que cada autor) siguiendo patrones de POO y programación genérica.
